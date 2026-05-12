@@ -1,4 +1,4 @@
-#  
+#  Enhance Todoist for macOS with automatic Addon for Todoist for macOS - real-time editing and goal tracking, the #1 addon. Includes real-time editing and goal tracking for a
 
 
 
